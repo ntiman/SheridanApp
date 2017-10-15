@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Project</string>
+    <string name="hint_user">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_grade">Student Score</string>
+    <string name="hint_comment">Comment</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Cancel.</string>
+    <string name="btn_link_to_login">Return to Class List</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+</resources>
