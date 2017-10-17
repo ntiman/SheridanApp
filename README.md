@@ -4,6 +4,8 @@
 
 Simple Android application developed in Android Studio. Using this application teacher can log in, create new mark for a specific student and edit existing marks. All data realted to student marks is stored locally on user's device. 
 
+## Demonstration: https://youtu.be/cr8u-0yOotw
+
 ## What did I gain from developing this project 
 
     
